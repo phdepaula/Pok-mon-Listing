@@ -2,7 +2,6 @@
 
 This project refers to the listing of some pokemons and their characteristics.
 
----
 ## **How to Interact**
 
 Open the file **index.html** in your browser.
